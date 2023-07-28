@@ -1,0 +1,5 @@
+Two obervable trends in the data:
+1. Charter schools have a much higher passing rate than district schools. All of the top 5 schools in passing rate are Charter, while
+all of the bottom 5 are District.
+2. As spending rate per student goes up, average scores and passing rate go down. For the groups of spending rates <$585, $585-630, 
+$630-645, and $645-680, the passing rate goes from 90%, 81%, 62 %, and 53 %, respectively.
